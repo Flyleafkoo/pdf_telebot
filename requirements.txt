@@ -1,3 +1,0 @@
-PyPdf2
-pdf2image
-Pillow
