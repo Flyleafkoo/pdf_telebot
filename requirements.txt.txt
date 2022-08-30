@@ -1,6 +1,3 @@
 PyPdf2
-<<<<<<< HEAD
 pdf2image
 Pillow
-=======
->>>>>>> 5b3262009f35e20ad3d691001dd76d45edc8279f
